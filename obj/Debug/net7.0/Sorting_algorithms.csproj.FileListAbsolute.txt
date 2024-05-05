@@ -1,0 +1,14 @@
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/bin/Debug/net7.0/Sorting_algorithms
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/bin/Debug/net7.0/Sorting_algorithms.deps.json
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/bin/Debug/net7.0/Sorting_algorithms.runtimeconfig.json
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/bin/Debug/net7.0/Sorting_algorithms.dll
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/bin/Debug/net7.0/Sorting_algorithms.pdb
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.AssemblyInfoInputs.cache
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.AssemblyInfo.cs
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.csproj.CoreCompileInputs.cache
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.dll
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/refint/Sorting_algorithms.dll
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.pdb
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/Sorting_algorithms.genruntimeconfig.cache
+/Users/paul/2. Studie UU/Datastructuren/Sorting_algorithms/obj/Debug/net7.0/ref/Sorting_algorithms.dll
